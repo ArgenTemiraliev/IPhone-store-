@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productName": "IPhone 11",
+            "price": 999,
+            "productImag": {
+                "img":  "https://www.myphone.kg/cache/files/7698.jpg_w800_h800_resize.jpg?t=1716483771"
+            }
+        },
+        {
+            "id": 2,
+            "productName": "IPhone 11 Pro",
+            "price": 1100,
+            "productImag": {
+                "img":  "https://www.myphone.kg/cache/files/7659.jpg_w800_h800_resize.jpg?t=1716474065"
+            }
+        },
+        {
+            "id": 3,
+            "productName": "IPhone 11 Pro MAX",
+            "price": 1200,
+            "productImag": {
+                "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-ybA1mgV7Kx0frBN0-XdJhFI3WPXplfoYQ&s"
+            }
+        },
+        {
+            "id": 4,
+            "productName": "IPhone 11 Pro MAX",
+            "price": 1200,
+            "productImag": {
+                "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-ybA1mgV7Kx0frBN0-XdJhFI3WPXplfoYQ&s"
+            }
+        },
+        {
+            "id": 5,
+            "productName": "IPhone 11 Pro MAX",
+            "price": 1200,
+            "productImag": {
+                "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-ybA1mgV7Kx0frBN0-XdJhFI3WPXplfoYQ&s"
+            }
+        },
+        {
+            "id": 6,
+            "productName": "IPhone 11 Pro MAX",
+            "price": 1200,
+            "productImag": {
+                "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-ybA1mgV7Kx0frBN0-XdJhFI3WPXplfoYQ&s"
+            }
+        }
+    ]
+}
